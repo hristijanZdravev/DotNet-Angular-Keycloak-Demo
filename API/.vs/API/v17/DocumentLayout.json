@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HristijanZdravev\\Desktop\\KeyCloakTest\\API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|c:\\users\\hristijanzdravev\\desktop\\keycloaktest\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|c:\\users\\hristijanzdravev\\desktop\\keycloaktest\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|c:\\users\\hristijanzdravev\\desktop\\keycloaktest\\api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|c:\\users\\hristijanzdravev\\desktop\\keycloaktest\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2397F9FF-A20A-47D0-9499-A593FD8F9FB7}|API.csproj|c:\\users\\hristijanzdravev\\desktop\\keycloaktest\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 354,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\HristijanZdravev\\Desktop\\KeyCloakTest\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T15:07:17.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:07:17.257Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:06:42.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:06:42.663Z"
             },
             {
               "$type": "Document",
@@ -92,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HristijanZdravev\\Desktop\\KeyCloakTest\\API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -105,20 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HristijanZdravev\\Desktop\\KeyCloakTest\\API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HristijanZdravev\\Desktop\\KeyCloakTest\\API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAASAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T15:04:37.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\HristijanZdravev\\Desktop\\KeyCloakTest\\API\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -126,8 +124,7 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-11T15:02:31.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:02:31.974Z"
             }
           ]
         }
