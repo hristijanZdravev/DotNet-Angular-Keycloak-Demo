@@ -48,4 +48,4 @@ To start Keycloak using Docker:
    ```bash
    docker-compose up -d
 3. This will start the Keycloak container in detached mode. Once running, you can access Keycloak at `http://localhost:8080`.
-4 .Follow the step-by-step guide linked above to configure Keycloak for authentication
+4. Follow the step-by-step guide linked above to configure Keycloak for authentication
